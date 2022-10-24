@@ -1,1 +1,16 @@
-# portfolyo
+# Portfolyo
+![portfolyo_2022_page-0002](https://user-images.githubusercontent.com/76490534/197577374-1303ae18-0c54-40a2-8a8d-23dc27d1d256.jpg)
+![portfolyo_2022_page-0003](https://user-images.githubusercontent.com/76490534/197577382-95472a51-4d70-4105-9199-b04537148fe7.jpg)
+![portfolyo_2022_page-0004](https://user-images.githubusercontent.com/76490534/197577386-b6f5803b-acec-4564-a6ee-d277b77e466f.jpg)
+![portfolyo_2022_page-0005](https://user-images.githubusercontent.com/76490534/197577388-7a250cec-a877-4edf-b91f-aa6fc9977081.jpg)
+![portfolyo_2022_page-0006](https://user-images.githubusercontent.com/76490534/197577390-e6e6c934-5083-4d39-9e3a-29c0313698ad.jpg)
+![portfolyo_2022_page-0007](https://user-images.githubusercontent.com/76490534/197577392-c58ebe57-f8ba-4f67-b7d8-fc53837f43fd.jpg)
+![portfolyo_2022_page-0008](https://user-images.githubusercontent.com/76490534/197577395-5694f19b-f956-4920-8de6-47adb56fc406.jpg)
+![portfolyo_2022_page-0009](https://user-images.githubusercontent.com/76490534/197577401-fcd2979e-c8cb-4bae-b92b-23c39c91d640.jpg)
+![portfolyo_2022_page-0010](https://user-images.githubusercontent.com/76490534/197577403-392bc453-7221-46d7-b36f-a690ec26cde8.jpg)
+![portfolyo_2022_page-0011](https://user-images.githubusercontent.com/76490534/197577408-3993a059-0a69-49b0-bcf5-ebf383dbad5b.jpg)
+![portfolyo_2022_page-0012](https://user-images.githubusercontent.com/76490534/197577412-d8f8ec24-2f8f-4f55-81fb-7cd8a6df3808.jpg)
+![portfolyo_2022_page-0013](https://user-images.githubusercontent.com/76490534/197577414-ea869995-b278-40b9-966e-ccd9a0cd9262.jpg)
+![portfolyo_2022_page-0014](https://user-images.githubusercontent.com/76490534/197577416-5b4e2b49-7e95-4bca-bd69-f0fcf44c8415.jpg)
+![portfolyo_2022_page-0015](https://user-images.githubusercontent.com/76490534/197577418-a74bb8b1-0993-449d-b411-bab168d86007.jpg)
+![portfolyo_2022_page-0016](https://user-images.githubusercontent.com/76490534/197577423-818d7357-bf3b-41b3-920d-e9d112f99694.jpg)
